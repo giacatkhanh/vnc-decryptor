@@ -35,6 +35,7 @@ pip install pycryptodome
 ```
 
 Step 2: Open the vnc_decrypt.py file and paste the hex string collected from the target machine into the hex_password variable.
+
 Step 3: Run the script to decrypt:
 ```bash
 python3 vnc_decrypt.py
