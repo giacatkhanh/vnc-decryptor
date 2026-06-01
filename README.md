@@ -28,6 +28,9 @@ reg query HKEY_LOCAL_MACHINE\Software\TightVNC\Server /v Password
 type "C:\Program Files\UltraVNC\ultravnc.ini"
 ```
 
+
+
+
 🚀 Usage Instructions
 Step 1: Install the required cryptography library. This script requires pycryptodome.
 ```bash
