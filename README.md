@@ -1,7 +1,7 @@
 # vnc-decryptor
 Python script to decrypt VNC passwords extracted from Windows Registry using fixed DES key
 
-🔍 VNC Hex String Storage Locations
+##🔍 VNC Hex String Storage Locations
 1. RealVNC
 -Usually stored at the system level in the Registry.
 ```cmd
@@ -29,9 +29,8 @@ type "C:\Program Files\UltraVNC\ultravnc.ini"
 ```
 
 
+##🚀 Usage Instructions
 
-
-🚀 Usage Instructions
 Step 1: Install the required cryptography library. This script requires pycryptodome.
 ```bash
 pip install pycryptodome
